@@ -16,8 +16,8 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p className="hero__subsubtitle">
-          We&apos;re a community-driven effort to unite like-minded people interested in Blockchain-
-          and Crypto Technologies
+          Somos uma comunidade que se esforça para unir pessoas com interesses semelhantes em Programação Web, Blockchain-
+           e tecnologias Crypto.
         </p>
       </div>
     </header>

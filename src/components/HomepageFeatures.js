@@ -65,7 +65,7 @@ export default function HomepageFeatures() {
   return (
     <section className={`${styles.features} features`}>
       <div className="container">
-        <h2 className="text--center">What do you want to do today?</h2>
+        <h2 className="text--center">O que gostaria de aprender?</h2>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

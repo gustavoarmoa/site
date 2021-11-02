@@ -1,10 +1,10 @@
 ---
 id: welcome
-title: Welcome to the ForCode Wiki
+title: Bem-vindo ao ForCode Wiki
 description: The community-driven wiki for Blockchain developers and Crypto technologists.
 slug: /
 sidebar_position: 1
-sidebar_label: Welcome
+sidebar_label: Bem-vindo
 ---
 
 # Welcome
