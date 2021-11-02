@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'CryptoDevHub',
-  tagline: 'Site para aprender o básico sobre programação web e as ferramentas que poder ajudar no dia a dia de sua jornada de aprendizado',
+  title: 'ForCode',
+  tagline: 'Um espaço para aprender o básico sobre programação web e as ferramentas que pode facilitar sua jornada de aprendizado',
   url: 'https://forcode.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
