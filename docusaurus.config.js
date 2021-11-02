@@ -21,8 +21,9 @@ module.exports = {
         src: 'img/logo.svg'
       },
       items: [
-        { to: '/wiki', label: 'Home', position: 'left' },
-        { to: '/blockchain-development-tutorials', label: 'Tutorias', position: 'left' },
+        { to: '/wiki', label: 'Inicio', position: 'left' },
+        { to: '/html', label: 'Html', position: 'left' },
+        { to: '/blockchain-development-tutorials', label: 'Tutoriais', position: 'left' },
         { to: '/blockchain-development-tools', label: 'Ferramentas', position: 'left' },
         { to: '/blockchain-developer-jobs', label: 'Jobs', position: 'left' },
         {
