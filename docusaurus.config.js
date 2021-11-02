@@ -4,20 +4,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'CryptoDevHub',
-  tagline: 'The place where Blockchain- and Crypto developers learn, meet and grow',
-  url: 'https://cryptodevhub.io',
+  tagline: 'Site para aprender o básico sobre programação web e as ferramentas que poder ajudar no dia a dia de sua jornada de aprendizado',
+  url: 'https://forcode.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
-  organizationName: 'cryptodevhub',
+  organizationName: 'ForCode',
   projectName: 'site',
   titleDelimiter: '-',
   themeConfig: {
     navbar: {
-      title: 'CryptoDevHub',
+      title: 'ForCode',
       logo: {
-        alt: 'CryptoDevHub Logo',
+        alt: 'ForCode Logo',
         src: 'img/logo.svg'
       },
       items: [
@@ -26,7 +26,7 @@ module.exports = {
         { to: '/blockchain-development-tools', label: 'Tools', position: 'left' },
         { to: '/blockchain-developer-jobs', label: 'Jobs', position: 'left' },
         {
-          href: 'https://cryptodevhub.io/discord',
+          href: '#',
           label: 'Discord',
           position: 'right'
         }
@@ -74,7 +74,7 @@ module.exports = {
           ]
         },
         {
-          title: 'More',
+          title: 'Mais',
           items: [
             {
               label: 'GitHub',
@@ -83,7 +83,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} CryptoDevHub`
+      copyright: `Copyright © ${new Date().getFullYear()} ForCode`
     },
     prism: {
       theme: lightCodeTheme,
