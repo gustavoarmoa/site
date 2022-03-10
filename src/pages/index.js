@@ -16,9 +16,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p className="hero__subsubtitle">
-          Somos uma comunidade que se esforça para unir pessoas com interesses semelhantes em Programação Web, Blockchain-
-           e tecnologias Crypto.
-        </p>
+          Somos um Instituto que se esforça para unir pessoas com interesses em aprender tecnologia</p>
       </div>
     </header>
   )
@@ -29,7 +27,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="The one-stop-shop for Blockchain- and Crypto developers. Learn Blockchain development, meet fellow enthusiasts, grow your career."
+      description="Um espaço para desenvolvedores de Blockchain e Crypto. Aprenda o desenvolvimento Blockchain, conheça outros entusiastas, cresça sua carreira."
     >
       <HomepageHeader />
       <main>
