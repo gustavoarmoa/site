@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css'
 
 const FeatureList = [
   {
-    title: 'Learn Blockchain Development',
+    title: 'Aprenda Desenvolvimento Blockchain',
     description: (
       <>
         Follow our step-by-step &quot;Getting Started&quot; guide to go from absolute beginner to
@@ -29,7 +29,7 @@ const FeatureList = [
     cta: 'Go to Wiki'
   },
   {
-    title: 'Connect with other Developers',
+    title: 'Conecte-se com outros desenvolvedores',
     description: (
       <>
         Join our Discord and talk to other Blockchain developers. Ask questions, team up or simply

@@ -16,7 +16,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p className="hero__subsubtitle">
-          Somos um Instituto que se esforça para unir pessoas com interesses em aprender tecnologia</p>
+          Aprenda o que o mercado está demanando hoje</p>
       </div>
     </header>
   )

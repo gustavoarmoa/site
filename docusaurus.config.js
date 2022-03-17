@@ -3,19 +3,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'ForCode',
-  tagline: 'Um espaço para aprender o básico sobre programação web e as ferramentas que podem facilitar sua jornada de aprendizado',
-  url: 'https://forcode.vercel.app/',
+  title: 'Forcode',
+  tagline: 'Somos um Instituto que se esforça para unir pessoas com interesses em aprender tecnologia',
+  url: 'https://forcode.com.br/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
-  organizationName: 'ForCode',
+  organizationName: 'FORCODE',
   projectName: 'site',
-  titleDelimiter: '-',
+  titleDelimiter: '- ',
   themeConfig: {
     navbar: {
-      title: 'ForCode',
+      title: 'Forcode',
       logo: {
         alt: 'ForCode Logo',
         src: 'img/logo.svg'
@@ -84,7 +84,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ForCode`
+      copyright: `Copyright © ${new Date().getFullYear()} Instituto Forcode | Pesquisa e desenvolvimento de tecnologias`
     },
     prism: {
       theme: lightCodeTheme,
