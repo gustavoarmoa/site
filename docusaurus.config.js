@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Forcode',
-  tagline: 'Somos um Instituto que se esforça para unir pessoas com interesses em aprender tecnologia',
+  tagline: 'Somos um Instituto de pesquisa focado em tecnologias Tokens e Cryptoativos',
   url: 'https://forcode.com.br/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
