@@ -15,8 +15,7 @@ function HomepageHeader() {
         </svg>
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p className="hero__subsubtitle">
-          Aprenda o que o mercado está demanando hoje</p>
+        <p className="hero__subsubtitle">As tecnologias que o mercado precisa hoje</p>
       </div>
     </header>
   )
